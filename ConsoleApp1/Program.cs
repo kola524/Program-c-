@@ -11,10 +11,7 @@ class Program
             //Вывод кода который ввел пользователь
             Console.WriteLine(a);
 
-            if (a = 10)
-            {
-                Console.WriteLine("good");
-            }
+           
             
         }
 }
