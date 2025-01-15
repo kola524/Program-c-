@@ -10,7 +10,8 @@ class Program
             String a = Console.ReadLine();
             //Вывод кода который ввел пользователь
             Console.WriteLine(a);
-
+            int b = 10;
+            Console.WriteLine(Console.ReadLine());
            
             
         }
